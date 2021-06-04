@@ -1,0 +1,20 @@
+.canvasOptions {
+
+	position: absolute;
+	z-index: 99999;
+	width: 100%;
+	background-color: white !important;
+	border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.fixed {
+
+	position: fixed;
+	background-color: white;
+	border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.picker {
+
+	width: 100% !important;
+}

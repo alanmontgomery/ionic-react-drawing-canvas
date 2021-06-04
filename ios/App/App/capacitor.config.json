@@ -1,0 +1,6 @@
+{
+	"appId": "com.ionicreactdrawing.app",
+	"appName": "ionic-react-drawing-canvas",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
